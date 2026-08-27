@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hi, I'm Muhammad Ali Abbas Khan</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=maliabbaskhan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/maliabbaskhan?label=Followers&style=flat" alt="Followers" />
   <img src="https://img.shields.io/badge/🚀-Full%20Stack%20Developer-blue" />
+  <img src="https://img.shields.io/badge/📱-App%20Developer-green" />
+  <img src="https://img.shields.io/badge/🤖-AI%20Developer-purple" />
 </p>
 
 <p align="center">
@@ -28,16 +28,16 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full-Stack Developer** with **3+ years of experience** building modern, scalable, and production-ready web and mobile applications. I specialize in developing complete applications from **frontend to backend, databases, APIs, deployment, and cloud infrastructure**.
+I'm a passionate **Full-Stack Developer**, **App Developer**, and **AI Developer** with **3+ years of experience** building modern, scalable, and production-ready web, mobile, and AI-powered applications. I specialize in developing complete applications from **frontend to backend, databases, APIs, deployment, and cloud infrastructure**.
 
 > **"Great software isn't just written — it's engineered, tested, deployed, and continuously improved."**
 
-- 🔭 Currently working on **Full-Stack Web & Mobile Applications**
+- 🔭 Currently working on **Full-Stack Web, Mobile & AI Applications**
 - 🌱 Learning **Cloud, DevOps & Kubernetes**
-- 👯 Looking to collaborate on **Web, Mobile, SaaS & Open-Source Projects**
-- 💬 Ask me about **React, Next.js, Node.js, MongoDB, REST APIs, Docker & Deployment**
+- 👯 Looking to collaborate on **Web, Mobile, SaaS, AI & Open-Source Projects**
+- 💬 Ask me about **React, Next.js, Node.js, MongoDB, REST APIs, Docker, Deployment & AI**
 - ⚡ Fun fact: **I love turning ideas into real-world applications 🚀**
-- 🎯 Goal: **Build scalable products and solve real-world problems with technology**
+- 🎯 Goal: **Build scalable AI-powered products and solve real-world problems with technology**
 
 ---
 
@@ -56,6 +56,11 @@ I'm a passionate **Full-Stack Developer** with **3+ years of experience** buildi
 ### 📱 Mobile Development
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,flutter,androidstudio&perline=3" />
+</p>
+
+### 🤖 AI & Machine Learning
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&perline=4" />
 </p>
 
 ### 🗄️ Databases
@@ -81,6 +86,7 @@ I'm a passionate **Full-Stack Developer** with **3+ years of experience** buildi
 |----------|--------------|
 | 💻 **Full-Stack Web Applications** | React, Next.js, Node.js, Express, MongoDB |
 | 📱 **Cross-Platform Mobile Apps** | React Native, Flutter, Android |
+| 🤖 **AI-Powered Applications** | Python, TensorFlow, PyTorch, OpenAI APIs |
 | 🌐 **Business & Corporate Websites** | React, Next.js, Tailwind CSS |
 | 🛒 **E-Commerce Applications** | MERN Stack, Payment Gateways |
 | 🔐 **Authentication & Authorization** | JWT, OAuth, Firebase Auth |
@@ -88,8 +94,6 @@ I'm a passionate **Full-Stack Developer** with **3+ years of experience** buildi
 | 📍 **Location-Based Applications** | Google Maps API, Geolocation |
 | ⚙️ **REST APIs & Backend Systems** | Node.js, Express, Python |
 | ☁️ **Cloud Deployment & Infrastructure** | AWS, Azure, Docker, Kubernetes |
-| 🐳 **Dockerized Applications** | Docker, Docker Compose |
-| ☸️ **Kubernetes-Based Deployments** | Kubernetes, Helm, Ingress |
 
 ---
 
@@ -110,6 +114,12 @@ I'm a passionate **Full-Stack Developer** with **3+ years of experience** buildi
   - Database Integration
   - App Deployment
 
+### 🤖 AI & Machine Learning Projects
+- AI-powered applications using **Python, TensorFlow, PyTorch**
+- Computer Vision with **OpenCV**
+- Natural Language Processing
+- AI Chatbots & Assistants
+
 ### ☁️ Cloud & Deployment
 - Deploying and managing applications using **AWS, Azure, Docker, Kubernetes, Nginx, Linux**
 
@@ -128,26 +138,16 @@ I'm a passionate **Full-Stack Developer** with **3+ years of experience** buildi
 
 ---
 
-## 📈 Contribution Activity
+## 🤖 AI-Powered Animation
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maliabbaskhan&theme=tokyo-night&hide_border=true&area=true&height=200" alt="Contribution Activity" width="90%"/>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=maliabbaskhan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW9qY3B0dXI4cHBkdTk1a3JxdXJxbTg4dmx5a3Npc2x6dGw5cGxlaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" alt="Robot Animation" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZndyM3ZkM2p1aDc1Ymt6b2ZxM2l3a3E2c2Z2bG1heWQ3cHlvbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="AI Brain Animation" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ZndW5pNHowb3ZkYjJpMjZxN2t1eW50ZThxM3N5M3o3Z2l4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="200" alt="Robot Coding Animation" />
 </p>
 
 ---
@@ -181,8 +181,8 @@ I'm interested in collaborating on:
 - 🚀 Startups & SaaS Products
 - 💻 Full-Stack Applications
 - 📱 Mobile Applications
+- 🤖 AI & Machine Learning Projects
 - ☁️ Cloud & DevOps Projects
-- 🤖 Automation Projects
 - 🌐 Business Websites
 - 🔧 Open-Source Projects
 
